@@ -52,3 +52,8 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://vitejs.dev/guide/static-deploy.html#building-the-app) for more information.
+
+## Demo
+
+|![Screenshot from 2023-04-07 16-13-26](https://user-images.githubusercontent.com/71522782/233193348-d86bd647-5872-4b6f-a55b-41d510c661cf.png)|![Screenshot from 2023-04-07 16-09-02](https://user-images.githubusercontent.com/71522782/233192660-a5ec3767-709d-4859-b9f4-f92f492a939f.png)|![Screenshot from 2023-04-07 16-19-31](https://user-images.githubusercontent.com/71522782/233193173-665047c9-0c72-4e66-bc54-0bcbf19b06cf.png)|
+| :----: | :----: | :----: |
