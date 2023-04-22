@@ -23,8 +23,8 @@ export const profileSlice = apiSlice.injectEndpoints({
       }),
       async onQueryStarted(body, { dispatch, queryFulfilled }) {
         try {
-          dispatch(updateUser(body));
           await queryFulfilled;
+          dispatch(updateUser(body));
         } catch (error) {}
       },
       invalidatesTags: ['UserProfile'],
